@@ -9,7 +9,7 @@ PLACEHOLDER
 <br />
 
 <p align="center">
-<img src="https://imgur.com/a/bQLQeJm.png" height="65%" width="65%" alt="Etch-a-Skecth website"/>
+<img src="https://imgur.com/a/bQLQeJm" height="65%" width="65%" alt="Etch-a-Skecth website"/>
 </p>
 
 <h2>Languages Used</h2>

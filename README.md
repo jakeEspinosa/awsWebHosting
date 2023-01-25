@@ -3,14 +3,21 @@
  ### [Live Project](http://jake-aws-webhosting-demo-bucket.s3-website-us-west-1.amazonaws.com)
  ### [YouTube Demonstration](https://youtu.be/l5wKv2yQRdY)
  
- <h2>Description</h2>
+<h2>Description</h2>
 PLACEHOLDER
 <br />
 <br />
 
 <p align="center">
-<img src="https://imgur.com/a/bQLQeJm" height="65%" width="65%" alt="Etch-a-Skecth website"/>
+<img src="https://user-images.githubusercontent.com/50299748/214473156-4b533df7-5480-4e46-8f7b-415becfc1f7e.png" height="65%" width="65%" alt="Etch a Sketch website"/>
 </p>
+
+<h3>S3</h3>
+PLACEHOLDER
+<h3>EC2</h3>
+PLACEHOLDER
+<h3>Elastic Beanstalk</h3>
+PLACEHOLDER
 
 <h2>Languages Used</h2>
 

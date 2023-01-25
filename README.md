@@ -1,7 +1,7 @@
 <h1>AWS Web Hosting with S3, EC2, and Elastic Beanstalk</h1>
 
- ### [Live Project](http://jake-aws-webhosting-demo-bucket.s3-website-us-west-1.amazonaws.com)
- ### [YouTube Tutorial](https://youtu.be/l5wKv2yQRdY)
+<h2><a href=http://jake-aws-webhosting-demo-bucket.s3-website-us-west-1.amazonaws.com>Check Out The Live Project!</a></h2>
+<h2><a href=https://youtu.be/l5wKv2yQRdY>Youtube Tutorial</a></h2>
  
 <h2>Description</h2>
 PLACEHOLDER

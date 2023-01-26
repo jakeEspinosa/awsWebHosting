@@ -31,6 +31,7 @@ If your use case demands a fully managed web host with a backend and HTTPS suppo
 - <b>HTML</b>
 - <b>Vanilla CSS</b>
 - <b>Vanilla JS</b>
+- <b>Bash</b>
 
 <h2>Environments Used</h2>
 
